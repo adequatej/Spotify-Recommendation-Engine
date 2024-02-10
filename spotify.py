@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -103,4 +102,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> d67359945db2256470be61203db9eac98bcc8d48
