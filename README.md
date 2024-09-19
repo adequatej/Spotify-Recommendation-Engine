@@ -20,5 +20,13 @@ Enter the required information and press "Enter".
 
 The app will then display recommended songs based on the input song and artist.
 
+# Algorithm
+
+Spotify's track URI (Uniform Resource Identifier) system is a unique identifier that Spotify assigns to each piece of content on its platform, such as songs, albums, playlists, and artists. A URI in Spotify is used to reference and interact with a specific item in its vast library of content.
+
+It allows to precisely search for or reference a specific song, album, or artist. By using this URI, you can retrieve detailed information about the track and use it for operations such as generating personalized music recommendations based on a seed track.
+
+The Spotify API uses these URIs to handle requests and ensure that the correct content is being accessed or recommended.
+
 # License
 This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
