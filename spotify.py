@@ -1,5 +1,5 @@
 import streamlit as st
-import spotipy
+import spotipy # Python lib
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # Function to get Spotify recommendations 
